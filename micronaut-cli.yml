@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: gimme
+testFramework: junit
+sourceLanguage: groovy
+buildTool: gradle
+features: [ annotation-api, app-name, gradle, groovy, groovy-application, hibernate-gorm, hibernate-validator, http-client, http-session, jdbc-hikari, junit, mysql, netty-server, readme, rxjava3, rxjava3-http-client, security-annotations, security-oauth2, shade, slf4j-simple, testcontainers, yaml ]
